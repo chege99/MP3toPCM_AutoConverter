@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3toPCMConverter", "MP3toPCMConverter\MP3toPCMConverter.csproj", "{7C55924C-36DF-4604-BD31-BF11BD0FD623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C55924C-36DF-4604-BD31-BF11BD0FD623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C55924C-36DF-4604-BD31-BF11BD0FD623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C55924C-36DF-4604-BD31-BF11BD0FD623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C55924C-36DF-4604-BD31-BF11BD0FD623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9D0F2D-7EBB-4859-934D-56ED086DABFC}
+	EndGlobalSection
+EndGlobal
